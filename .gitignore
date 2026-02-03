@@ -1,0 +1,3 @@
+.env*
+matrix_session
+matrix_session.json
