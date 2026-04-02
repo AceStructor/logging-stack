@@ -41,7 +41,7 @@ POLL_INTERVAL = 2
 # STATE
 # ======================
 LOGLEVELS = ["debug", "info", "warning", "error"]
-current_level = "error"
+current_level = "warning"
 last_timestamp_ns: Optional[int] = None
 
 LEVEL_ORDER = {
